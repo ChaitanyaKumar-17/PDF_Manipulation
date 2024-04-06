@@ -1,1 +1,1 @@
-Learn ti manipulate pdf using this repo
+Learn to manipulate pdf using this repo
